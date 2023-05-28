@@ -16,7 +16,7 @@ main()
         else
             k++;
     }
-    printf("Uppercase = %d\n",i);
+    printf("Uppercase = %d\n",n);
     printf("Lowercase = %d\n",j);
     printf("Special characters = %d\n",k);
 }
